@@ -1,0 +1,6 @@
+/*
+	ThorinDev
+	Main.js
+*/
+
+/* JavaScript */
