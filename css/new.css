@@ -56,3 +56,21 @@ a:hover {
 	text-decoration: underline;
 }
 
+p {
+	margin-bottom: 10px;
+	font-weight: 400;
+}
+
+b {
+	margin-bottom: 10px;
+	font-weight: 500;
+}
+
+i {
+	margin-bottom: 10px;
+	font-weight: 300;
+}
+
+.grey {
+	color: #999;
+}
