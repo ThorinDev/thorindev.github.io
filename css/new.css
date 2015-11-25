@@ -1,0 +1,17 @@
+/*
+	ThorinDev
+	Main.css
+*/
+
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,500);
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+html, body {
+	height: 100%;
+	min-width: 700px;
+	min-height: 600px;
+}
