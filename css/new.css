@@ -15,3 +15,9 @@ html, body {
 	min-width: 700px;
 	min-height: 600px;
 }
+
+body {
+	font-family: 'Raleway', sans-serif;
+	font-size: 25px;
+	background: #ecf0f1;
+}
