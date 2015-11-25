@@ -75,9 +75,8 @@
 	}
 
  	.grey {
-	 	margin-bottom: 10px;
-		text-decoration-color: grey;
- 	}
+	color: #999;
+}
 
 	/* Buttons */
 
