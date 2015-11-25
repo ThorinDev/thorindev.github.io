@@ -4,3 +4,7 @@
 */
 
 /* JavaScript */
+
+function buttonOne() {
+	alert("Hello");
+}
