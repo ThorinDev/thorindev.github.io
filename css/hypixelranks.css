@@ -1,34 +1,68 @@
 /*
-	Hypixel Ranks
+	Minecraft Color Codes
 	ThorinDev
 */
 
-MCblack {
+Black {
 	color: #000000;
 }
 
-MCdBlue {
+dBlue {
 	color: #0000AA;
 }
 
-MCdGreen {
+dGreen {
 	color: #00AA00;
 }
 
-MCdAqua {
+dAqua {
 	color: #00AAAA;
 }
 
-MCdRed {
+dRed {
 	color: #AA0000;
 }
 
-MCdPurple {
+dPurple {
 	color: #AA00AA;
 }
 
-MCgold {
+Gold {
 	color: #FFAA00;
 }
 
-MC
+Gray {
+	color: #AAAAAA;
+}
+
+dGray {
+	color: #555555;
+}
+
+Blue {
+	color: #5555FF;
+}
+
+Green {
+	color: #55FF55;
+}
+
+Aqua {
+	color: #55FFFF;
+}
+
+Red {
+	color: #FF5555;
+}
+
+lPurple {
+	color: #FF55FF;
+}
+
+Yellow {
+	color: #FFFF55;
+}
+
+While {
+	color: #FFFFFF;
+}
