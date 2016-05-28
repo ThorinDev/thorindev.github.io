@@ -1,6 +1,0 @@
-/*
-	ThorinDev
-	thorindev.js
-*/
-
-/* JavaScript */
